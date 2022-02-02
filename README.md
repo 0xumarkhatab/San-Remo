@@ -1,6 +1,14 @@
 ### Hotel Managaement System Using Next JS
 
-
+##### Buidling Blocks
+  - Next Js
+  - React Redux
+  - Material Ui
+  - Pure CSS
+  - Node Js API
+  - React Hooks
+  
+  
 
 
 ---
