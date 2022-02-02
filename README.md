@@ -7,12 +7,57 @@
   - Pure CSS
   - Node Js API
   - React Hooks
+  - Styled Componenents
+  - Fortawesome/fontawesome-free
+  - axios
+  - chart.js
+  - nouislider
+  - React-chartjs-2
+  - React-select
+  - React-Star-Ratings
   
+##### Dependencies
+```
+"dependencies": {
+    "@atlaskit/icon": "^21.8.1",
+    "@atlaskit/page": "^12.0.7",
+    "@atlaskit/tooltip": "^17.4.1",
+    "@fortawesome/fontawesome-free": "5.15.2",
+    "@zeit/next-css": "1.0.1",
+    "@zeit/next-sass": "1.0.1",
+    "axios": "^0.21.4",
+    "bootstrap": "4.6.0",
+    "chart.js": "2.9.4",
+    "classnames": "2.2.6",
+    "moment": "2.29.1",
+    "next": "^10.2.3",
+    "next-compose-plugins": "2.2.1",
+    "next-fonts": "1.4.0",
+    "next-images": "1.3.1",
+    "node-sass": "4.14.1",
+    "node-sass-package-importer": "5.3.2",
+    "nouislider": "14.6.3",
+    "path": "0.12.7",
+    "react": "17.0.1",
+    "react-chartjs-2": "2.11.1",
+    "react-copy-to-clipboard": "5.0.3",
+    "react-datetime": "3.0.4",
+    "react-dom": "17.0.1",
+    "react-redux": "^7.2.5",
+    "react-select": "^4.3.1",
+    "react-star-ratings": "^2.3.0",
+    "reactstrap": "8.9.0",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "socket.io-client": "^4.2.0",
+    "styled-components": "^5.3.1",
+    "webpack": "4.44.1"
+  }
   
-
+```
 
 ---
-description: Get started with Next.js in the official documentation, and learn more about all our features!
+Description: Get started with Next.js in the official documentation, and learn more about all our features!
 ---
 
 # Getting Started
