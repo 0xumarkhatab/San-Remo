@@ -1,4 +1,4 @@
-### Hotel Managaement System Using Next JS
+###  A Full Stack Hotel Managaement System Using Next JS and Node JS
 
 ##### Buidling Blocks
   - Next Js
@@ -15,6 +15,19 @@
   - React-chartjs-2
   - React-select
   - React-Star-Ratings
+  
+### Project illustration
+    A few Screenshots of the Project Looks Like the following ones :
+### 
+![First Image](demonstration/one.jpeg) 
+###
+![Second Image](demonstration/two.jpeg) 
+###
+![Third Image](demonstration/three.jpeg) 
+
+
+
+  
   
 ##### Dependencies
 ```
